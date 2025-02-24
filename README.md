@@ -16,6 +16,10 @@ This Streamlit application provides an interactive interface for cleaning and pr
 -   **Feature Scaling/Normalization:** Offers StandardScaler, MinMaxScaler, and RobustScaler.
 -   **Download Cleaned File:** Downloads the cleaned DataFrame as a CSV file.
 
+Preview :
+![{964F5D7E-7EF4-473F-A416-41F097063033}](https://github.com/user-attachments/assets/e92743ee-3f90-44c4-b769-cddee8debc9c)
+
+
 ## Installation
 
 1.  Clone the repository:
