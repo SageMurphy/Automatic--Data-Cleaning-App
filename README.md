@@ -1,4 +1,4 @@
-# Automatic Data Cleaning App
+# No-Code Data Cleaning App
 
 This Streamlit application provides an interactive interface for cleaning and preprocessing CSV datasets. It includes features for handling missing values, duplicates, outliers, inconsistent string data, date handling, data type conversion, encoding categorical variables, and feature scaling/normalization.
 
